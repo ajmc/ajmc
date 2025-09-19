@@ -1,3 +1,15 @@
+# Hi, I'm Andrew 
+
+I work on software projects in my spare time, focusing on tooling and APIs for liturgical readings.
+
+## Skills
+- Python, JavaScript/Node.js
+- FastAPI
+- JSON & data processing
+- Git, GitHub
+
+## Note
+This work is mostly for personal learning and experimentation.
 ###
 
 <!--
