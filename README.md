@@ -18,8 +18,6 @@ I work on software projects in my spare time, focusing on tooling, APIs, and dat
 ## 📝 Note
 This work is mostly for personal learning and experimentation.
 
-## 📊 GitHub Stats
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmc&show_icons=true&theme=radical)
 
 
 <!--
