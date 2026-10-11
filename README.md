@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew
+#  Hi, I'm Andrew
 
 I work on software projects in my spare time, focusing on tooling, APIs, and data processing.
 
