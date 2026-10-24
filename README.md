@@ -18,7 +18,7 @@ I write software in my spare time, mostly for the joy of making things work well
 ### 🧰 Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,fastapi,nodejs,cloudflare,git,neovim&perline=10" alt="Python, JavaScript, HTML, CSS, Bash, FastAPI, Node.js, Cloudflare, Git, Neovim" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,fastapi,nodejs,cloudflare,git&perline=10" alt="Python, JavaScript, HTML, CSS, Bash, FastAPI, Node.js, Cloudflare, Git" />
 </p>
 
 ### 🐍 Contributions
