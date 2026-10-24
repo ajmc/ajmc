@@ -18,7 +18,15 @@ I write software in my spare time, mostly for the joy of making things work well
 ### 🧰 Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,fastapi,nodejs,cloudflare,git&perline=10" alt="Python, JavaScript, HTML, CSS, Bash, FastAPI, Node.js, Cloudflare, Git" />
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" /></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
+  <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
 </p>
 
 ### 🐍 Contributions
