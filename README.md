@@ -1,37 +1,38 @@
-#  Hi, I'm Andrew
+<div align="center">
 
-I work on software projects in my spare time, focusing on tooling, APIs, and data processing.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=C9A227&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrew+%F0%9F%91%8B;I+build+small%2C+careful+software;Python+%C2%B7+APIs+%C2%B7+data+%C2%B7+the+web" alt="Hi, I'm Andrew" />
 
-## 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+I build tools in my spare time: APIs, data pipelines, and minimalist web apps.<br/>
+Right now that mostly means putting centuries-old prayer books on the web.
 
-## 🛠️ Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+</div>
 
-## 📝 Note
-This work is mostly for personal learning and experimentation.
+---
 
+### ✝️ Featured: [Way of Saints](https://wayofsaints.com)
 
+> A minimalist web app for praying with the Church each day.
 
-<!--
-**ajmc/ajmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 **Mass:** the day's readings in English and Latin, on both the 1969 and 1962 calendars
+- 🕯️ **Divine Office:** all eight Hours of the Roman Breviary, plus the Little Office of Our Lady
+- 📿 **Rosary and novenas:** tappable bead counters, Renaissance paintings, and 22 novenas from the *Raccolta*
+- 🪶 **Public-domain sources:** Douay-Rheims, the Clementine Vulgate, Butler's *Lives of the Saints*, and the 1916 Missal
 
-Here are some ideas to get you started:
+<p><a href="https://wayofsaints.com"><img src="https://img.shields.io/badge/Visit-wayofsaints.com-C9A227?style=for-the-badge" alt="Visit wayofsaints.com" /></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Also tinkering with
+
+- 📈 A personal TSX + US stock screener in Python
+
+### 🧰 Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,fastapi,nodejs,cloudflare,git,neovim&perline=10" alt="Python, JavaScript, HTML, CSS, Bash, FastAPI, Node.js, Cloudflare, Git, Neovim" />
+</p>
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajmc/ajmc/output/snake-dark.svg" />
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/ajmc/ajmc/output/snake.svg" />
+</picture>
