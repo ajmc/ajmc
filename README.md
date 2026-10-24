@@ -28,14 +28,3 @@ I write software in my spare time, mostly for the joy of making things work well
   <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
 </p>
-
-### 🐍 Contributions
-
-<a href="https://github.com/Platane/snk">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajmc/ajmc/output/snake-dark.svg" />
-  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/ajmc/ajmc/output/snake.svg" />
-</picture>
-</a>
-
-<sub>Most of what I build lives in private repos. The snake sees it all.</sub>
