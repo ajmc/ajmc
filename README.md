@@ -20,6 +20,7 @@ I write software in my spare time, mostly for the joy of making things work well
 <p>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" /></a>
