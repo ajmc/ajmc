@@ -1,21 +1,19 @@
 <div align="center">
 
-## Hi, I'm Andrew 👋
-
 I write software in my spare time, mostly for the joy of making things work well.
 
 </div>
 
 ---
 
-### ⚙️ What I like building
+### What I like building
 
-- 🛠️ **Tooling** that takes the friction out of everyday work
-- 🔌 **APIs**, usually in Python with FastAPI
-- 📊 **Data processing:** turning messy sources into clean, useful structure
-- 🌐 **Minimalist web apps:** fast, quiet and served from the edge
+- **Tooling** that takes the friction out of everyday work
+- **APIs**, usually in Python with FastAPI
+- **Data processing:** turning messy sources into clean, useful structure
+- **Minimalist web apps:** fast, quiet and served from the edge
 
-### 🧰 Toolbox
+### Toolbox
 
 <p>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" /></a>
